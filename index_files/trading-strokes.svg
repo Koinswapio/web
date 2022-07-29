@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="774px" height="406px" viewBox="0 0 774 406" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="mothership_design_desktop" transform="translate(-612.000000, -1835.000000)" stroke="#00376E" stroke-width="2.033">
+            <g id="mothership-features" transform="translate(95.000000, 1518.000000)">
+                <g id="Page-1" transform="translate(518.000000, 303.000000)">
+                    <polyline id="Stroke-7" points="0.0164 306.7717 41.8114 282.6417 83.6064 306.7717"></polyline>
+                    <path d="M0.0164,306.7717 L41.8114,330.9017" id="Stroke-9"></path>
+                    <path d="M41.8114,330.9016 L83.6064,306.7716" id="Stroke-12"></path>
+                    <polyline id="Stroke-13" points="284.2508 340.8371 316.0608 322.4721 347.8708 340.8371"></polyline>
+                    <path d="M284.2508,340.8371 L316.0608,359.2021" id="Stroke-14"></path>
+                    <path d="M316.0604,359.2023 L347.8714,340.8373" id="Stroke-15"></path>
+                    <polyline id="Stroke-16" points="322.8631 340.8371 354.6731 322.4721 386.4821 340.8371"></polyline>
+                    <path d="M322.8631,340.8371 L354.6731,359.2021" id="Stroke-17"></path>
+                    <path d="M354.6727,359.2023 L386.4827,340.8373" id="Stroke-18"></path>
+                    <polyline id="Stroke-19" points="284.2508 365.3205 316.0608 346.9555 347.8708 365.3205"></polyline>
+                    <path d="M284.2508,365.3205 L316.0608,383.6855" id="Stroke-20"></path>
+                    <polygon id="Stroke-29" points="59.895 418.065 99.789 395.032 59.895 372 20 395.032"></polygon>
+                    <path d="M316.0604,383.6857 L347.8714,365.3207" id="Stroke-21"></path>
+                    <polyline id="Stroke-22" points="322.8631 365.3205 354.6731 346.9555 386.4821 365.3205"></polyline>
+                    <path d="M322.8631,365.3205 L354.6731,383.6855" id="Stroke-23"></path>
+                    <path d="M354.6727,383.6857 L386.4827,365.3207" id="Stroke-24"></path>
+                    <polyline id="Stroke-31" points="409.8983 133.2697 590.7313 28.8657 771.5653 133.2697"></polyline>
+                    <path d="M409.8983,133.2697 L590.7313,237.6737" id="Stroke-32"></path>
+                    <path d="M590.7313,237.674 L771.5653,133.27" id="Stroke-33"></path>
+                    <polygon id="Stroke-34" points="633.652 311.118 701.304 272.059 633.652 233 566 272.059"></polygon>
+                    <polygon id="Stroke-36" points="305.895 278.065 345.789 255.032 305.895 232 266 255.032"></polygon>
+                    <polygon id="Stroke-41" points="155.558 210.08 217.116 174.54 155.558 139 94 174.54"></polygon>
+                    <polygon id="Stroke-41" points="604.558 385.08 666.116 349.54 604.558 314 543 349.54"></polygon>
+                    <polygon id="Stroke-43" points="294.2196 84.5764 334.1136 61.5444 294.2196 38.5114 254.3246 61.5444"></polygon>
+                    <polygon id="Stroke-44" points="294.2196 61.5441 334.1136 38.5111 294.2196 15.4791 254.3246 38.5111"></polygon>
+                    <polygon id="Stroke-45" points="432.895 299.065 472.789 276.033 432.895 253 393 276.033"></polygon>
+                    <polygon id="Stroke-46" points="491.895 287.065 531.789 264.033 491.895 241 452 264.033"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

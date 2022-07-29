@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 12 98" style="enable-background:new 0 0 12 98;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#Line_1_);stroke-linecap:round;}
+	.st1{fill:none;stroke:#FCE38A;stroke-linecap:round;}
+</style>
+<title>Group 38</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="wireframe" transform="translate(-1393.000000, -1809.000000)">
+		<g id="Group-15" transform="translate(332.000000, 1423.000000)">
+			<g id="Group-38" transform="translate(1061.000000, 387.000000)">
+				
+					<linearGradient id="Line_1_" gradientUnits="userSpaceOnUse" x1="-1906.25" y1="593.8542" x2="-1905.25" y2="592.8542" gradientTransform="matrix(-1 0 0 96 -1900 -56938)">
+					<stop  offset="0" style="stop-color:#FCE38A"/>
+					<stop  offset="1" style="stop-color:#F38181"/>
+				</linearGradient>
+				<path id="Line" class="st0" d="M6,0v96"/>
+				
+					<g id="Group-33-Copy-2" transform="translate(6.000000, 93.500000) rotate(-270.000000) translate(-6.000000, -93.500000) translate(2.500000, 87.500000)">
+					<path id="Path-2" class="st1" d="M7,6L0.5,0.5"/>
+					<path id="Path-2-Copy" class="st1" d="M0.5,11.5L7,6"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
